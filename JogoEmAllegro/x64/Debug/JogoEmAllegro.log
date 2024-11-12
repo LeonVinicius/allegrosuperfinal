@@ -1,0 +1,4 @@
+﻿  JogoEmAllegro.c
+C:\Users\Leon\source\repos\JogoEmAllegro\JogoEmAllegro\JogoEmAllegro.c(425,32): warning C4047: '=': 'int' difere em níveis de indireção de 'ALLEGRO_BITMAP *'
+C:\Users\Leon\source\repos\JogoEmAllegro\JogoEmAllegro\JogoEmAllegro.c(154,1): warning C4715: 'Bomberman': nem todos os caminhos de controle retornam um valor
+  JogoEmAllegro.vcxproj -> C:\Users\Leon\source\repos\JogoEmAllegro\x64\Debug\JogoEmAllegro.exe
